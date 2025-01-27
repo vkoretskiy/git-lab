@@ -1,1 +1,2 @@
 Hey, this is file for feature branch. Commit one.
+this is a change for second commit.
